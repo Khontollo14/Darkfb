@@ -1,0 +1,19 @@
+import subprocess,os
+raw_input("""TOLLS TELAH DI UPDATE 
+JIKA ADA MAO MENGGUNAKAN TOOLS INI TULIS ( bash install.sh )
+
+JIKA KALIAN MAO MENGGUNAKAN  TOOLS INI TOLONG SUBCRIBE YA 
+KALO SUBCRIBE GA SAMPE 500 MAKA TOOLS INI AKAN SAYA HAPUS
+
+Link channel : https://m.youtube.com/channel/UCNHfHIJcNiZ-vGK389OOhDA
+NAMA CHANNEL : Script Termux
+
+TEKAN ENTER UNTUK CHAT KE WHASTAPP
+
+KALO ADA MASALAH WA : 081381112388
+
+VIA WHATSAPP!!!!1!1!1
+""")
+subprocess.check_output(["am","start","https://m.youtube.com/channel/UCNHfHIJcNiZ-vGK389OOhDA"])
+
+
